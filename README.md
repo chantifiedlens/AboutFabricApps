@@ -1,6 +1,6 @@
 # AboutFabricApps
 
-AboutFabricApps is an interactive learning studio for people who want to understand and build applications with Microsoft Fabric Apps and Rayfin. It is both a working Fabric App and an example project that you can run, study, and adapt.
+AboutFabricApps is an interactive learning studio for people who want to understand and build applications with Microsoft Fabric Apps and Rayfin. Based on online documentation provided by Microsoft about Fabric Apps, Rayfin and Fabricator. It is both a working Fabric App and an example project that you can run, study, and adapt.
 
 ![Welcome to the AboutFabricApps learning studio](images/Start_here.jpg)
 
